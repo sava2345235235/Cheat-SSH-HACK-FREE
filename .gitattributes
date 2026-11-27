@@ -1,1 +1,2 @@
 GOLDUSHKA[[:space:]]EXE/*.exe filter=lfs diff=lfs merge=lfs -text
+GOLDUSHKA[[:space:]]APK/*.apk filter=lfs diff=lfs merge=lfs -text
